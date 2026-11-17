@@ -93,11 +93,11 @@ pip install pandas numpy matplotlib jupyter
 
 | Member | Student Name | Student ID | Assigned Role & Key Contributions |
 | :--- | :--- | :--- | :--- |
-| **Member 1** | `[Enter Member 1 Name]` | `[XX-XXXXX-X]` | Data loading, dataset structure understanding, and initial schema inspection |
-| **Member 2** | `[Enter Member 2 Name]` | `[XX-XXXXX-X]` | Data validation, missing-value handling, entity separation, and preprocessing |
-| **Member 3** | `[Enter Member 3 Name]` | `[XX-XXXXX-X]` | Descriptive statistical analysis, exploratory data analysis (EDA), and visualisations |
-| **Member 4** | `[Enter Member 4 Name]` | `[XX-XXXXX-X]` | Renewable-energy deep dive, correlation analysis, and synthesis of preliminary findings |
-| **Member 5** | `[Enter Member 5 Name]` | `[XX-XXXXX-X]` | Limitations & next steps review, report compilation, and repository/reproducibility packaging |
+| **Member 1** | `Istiake Ahamed` | `24-58647-2` | Data loading, dataset structure understanding, and initial schema inspection |
+| **Member 2** | `Aysha Afrose` | `24-59968-3` | Data validation, missing-value handling, entity separation, and preprocessing |
+| **Member 3** | `Tasfiha Bushra Suhi` | `24-58979-2` | Descriptive statistical analysis, exploratory data analysis (EDA) |
+| **Member 4** | `Anwesha Dey` | `24-58944-2` | Data visualization & graphical investigation |
+| **Member 5** | `MD. Sajidul Haque Rohan` | `24-58853-2` | Advance investigation & findings,limitations & next steps review, report compilation, and repository/reproducibility packaging |
 
 ---
 
