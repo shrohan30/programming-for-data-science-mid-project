@@ -24,7 +24,7 @@ In **Phase I** of this project, we conduct an exploratory data analysis (EDA) of
 ## 📊 Dataset & Ethical Use
 This project uses the **Our World in Data (OWID) Energy Dataset** (`energy-data.csv`), which compiles official statistics from the Energy Institute Statistical Review of World Energy, Ember, the U.S. EIA, and related sources.
 
-* **Source Repository:** [github.com/owid/energy-data](https://github.com/owid/energy-data)
+* **Source Repository:** https://github.com/shrohan30/programming-for-data-science-mid-project.git
 * **Dimensions:** `23,232 rows × 131 columns` (`3` identifiers: `country`, `year`, `iso_code`; `128` numeric indicators)
 * **Coverage:** `1900–2025` across `314` entities (`220` countries totaling `17,134` country-year records, plus regional/income aggregates)
 * **License & Ethical Compliance:** Published under **Creative Commons BY 4.0**. In compliance with data-sharing guidelines, the raw CSV file is **not redistributed** in this repository. All records represent aggregate national statistics with zero personal or sensitive information, and missing values (`NaN`) were preserved rather than imputed.
